@@ -1,0 +1,17 @@
+file,label,diagnosis,license
+malignant_ISIC_0000002.jpg,malignant,Melanoma, NOS,CC-0
+malignant_ISIC_0000004.jpg,malignant,Melanoma, NOS,CC-0
+malignant_ISIC_0000013.jpg,malignant,Melanoma Invasive,CC-0
+malignant_ISIC_0000022.jpg,malignant,Melanoma in situ,CC-0
+malignant_ISIC_0000026.jpg,malignant,Melanoma Invasive,CC-0
+malignant_ISIC_0000029.jpg,malignant,Melanoma, NOS,CC-0
+malignant_ISIC_0000030.jpg,malignant,Melanoma Invasive,CC-0
+malignant_ISIC_0000031.jpg,malignant,Melanoma Invasive,CC-0
+benign_ISIC_0000000.jpg,benign,Nevus,CC-0
+benign_ISIC_0000001.jpg,benign,Nevus,CC-0
+benign_ISIC_0000003.jpg,benign,Nevus,CC-0
+benign_ISIC_0000005.jpg,benign,Nevus,CC-0
+benign_ISIC_0000006.jpg,benign,Nevus,CC-0
+benign_ISIC_0000007.jpg,benign,Nevus,CC-0
+benign_ISIC_0000008.jpg,benign,Nevus,CC-0
+benign_ISIC_0000009.jpg,benign,Nevus,CC-0
